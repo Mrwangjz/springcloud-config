@@ -11,7 +11,7 @@ spring:
 spring:
   profiles: test   #测试环境
   application: 
-#    name: springcecloud-config-test
+    name: springcecloud-config-test
 #  请保存为UTF-8格式
  
  
